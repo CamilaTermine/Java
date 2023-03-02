@@ -1,4 +1,8 @@
 Probando agregar archivos 
 Ahora probando editar archivos desde la web
 
+<<<<<<< HEAD
 modificando copia web y local al mismo tiempo
+=======
+volviendo a modificar el archivo
+>>>>>>> e02f5c536dd4cafd8a16337740fda1c4cc76bc36
