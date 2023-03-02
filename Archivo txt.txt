@@ -1,2 +1,4 @@
 Probando agregar archivos 
 Ahora probando editar archivos desde la web
+
+modificando copia web y local al mismo tiempo
